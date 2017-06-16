@@ -1,0 +1,6 @@
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\obj\Debug\EmployeeInheritance.csprojResolveAssemblyReference.cache
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\bin\Debug\EmployeeInheritance.exe.config
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\bin\Debug\EmployeeInheritance.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\bin\Debug\EmployeeInheritance.pdb
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\obj\Debug\EmployeeInheritance.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\EmployeeInheritance\obj\Debug\EmployeeInheritance.pdb
